@@ -16,10 +16,7 @@ export function Footer() {
             <h4 className="font-semibold text-black mb-4 text-sm">Platform</h4>
             <ul className="space-y-3 text-sm text-gray-600">
               <li>
-                <a
-                  href="/batch5"
-                  className="hover:text-black transition-colors"
-                >
+                <a href="/batch" className="hover:text-black transition-colors">
                   Batch 5 Dt Project
                 </a>
               </li>
